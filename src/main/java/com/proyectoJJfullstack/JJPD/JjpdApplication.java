@@ -1,13 +1,13 @@
-package com.holamundo.ejemplo.holamundo;
+package com.proyectoJJfullstack.JJPD;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HolamundoApplication {
+public class JjpdApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HolamundoApplication.class, args);
+		SpringApplication.run(JjpdApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.holamundo.ejemplo.holamundo;
+package com.proyectoJJfullstack.JJPD;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HolamundoApplicationTests {
+class JjpdApplicationTests {
 
 	@Test
 	void contextLoads() {
